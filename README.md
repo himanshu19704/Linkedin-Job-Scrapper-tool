@@ -93,12 +93,14 @@ Location
 ▶️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/himanshu19704/Linkedin-Job-Scrapper-tool.git
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
 If you don’t have requirements.txt, install manually:
 
 pip install selenium pandas ttkbootstrap webdriver-manager
+
 3️⃣ Run Application
 python main.py
 
