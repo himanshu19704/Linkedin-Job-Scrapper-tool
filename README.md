@@ -92,8 +92,7 @@ Location
 
 ▶️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/linkedin-job-scraper.git
-cd linkedin-job-scraper
+git clone https://github.com/himanshu19704/Linkedin-Job-Scrapper-tool.git
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
